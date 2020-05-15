@@ -1,0 +1,208 @@
+Loading Dictionaries . . . 
+Adding: a Count: 0 Size: 101
+Hashval : 28
+Adding: accent Count: 1 Size: 101
+Hashval : 10
+Adding: an Count: 2 Size: 101
+Hashval : 35
+Adding: as Count: 3 Size: 101
+Hashval : 40
+Adding: away Count: 4 Size: 101
+Hashval : 71
+Adding: believe Count: 5 Size: 101
+Hashval : 15
+Adding: brain Count: 6 Size: 101
+Hashval : 66
+Adding: but Count: 7 Size: 101
+Hashval : 9
+Adding: cannot Count: 8 Size: 101
+Hashval : 69
+Adding: child Count: 9 Size: 101
+Hashval : 100
+Adding: clouds Count: 10 Size: 101
+Hashval : 59
+Adding: come Count: 11 Size: 101
+Hashval : 50
+Adding: decided Count: 12 Size: 101
+Hashval : 79
+Adding: doubt Count: 13 Size: 101
+Hashval : 80
+Adding: doubtful Count: 14 Size: 101
+Hashval : 59 60
+Adding: eager Count: 15 Size: 101
+Hashval : 96
+Adding: encouraging Count: 16 Size: 101
+Hashval : 52
+Adding: encouragingly Count: 17 Size: 101
+Hashval : 91
+Adding: expect Count: 18 Size: 101
+Hashval : 13
+Adding: fact Count: 19 Size: 101
+Hashval : 77
+Adding: first Count: 20 Size: 101
+Hashval : 37
+Adding: from Count: 21 Size: 101
+Hashval : 52 53
+Adding: girl Count: 22 Size: 101
+Hashval : 13 14
+Adding: gravely Count: 23 Size: 101
+Hashval : 49
+Adding: he Count: 24 Size: 101
+Hashval : 83
+Adding: hers Count: 25 Size: 101
+Hashval : 50 51
+Adding: him Count: 26 Size: 101
+Hashval : 96 97
+Adding: his Count: 27 Size: 101
+Hashval : 1
+Adding: i Count: 28 Size: 101
+Hashval : 36
+Adding: imaginative Count: 29 Size: 101
+Hashval : 78
+Adding: impulse Count: 30 Size: 101
+Hashval : 68
+Adding: is Count: 31 Size: 101
+Hashval : 33
+Adding: it Count: 32 Size: 101
+Hashval : 34
+Adding: know Count: 33 Size: 101
+Hashval : 98
+Adding: lady Count: 34 Size: 101
+Hashval : 27
+Adding: merely Count: 35 Size: 101
+Hashval : 22
+Adding: must Count: 36 Size: 101
+Hashval : 32
+Adding: next Count: 37 Size: 101
+Hashval : 80 81
+Adding: not Count: 38 Size: 101
+Hashval : 55
+Adding: of Count: 39 Size: 101
+Hashval : 40 41
+Adding: over Count: 40 Size: 101
+Hashval : 76
+Adding: overly Count: 41 Size: 101
+Hashval : 57
+Adding: own Count: 42 Size: 101
+Hashval : 98 99
+Adding: reprimand Count: 43 Size: 101
+Hashval : 51 52 56
+Adding: roll Count: 44 Size: 101
+Hashval : 93
+Adding: rolled Count: 45 Size: 101
+Hashval : 22 23
+Adding: said Count: 46 Size: 101
+Hashval : 50 51 55 64
+Adding: sane Count: 47 Size: 101
+Hashval : 34 35 39
+Adding: sanity Count: 48 Size: 101
+Hashval : 43
+Adding: she Count: 49 Size: 101
+Rehashing
+Made it here 
+Size 210
+Made Table
+Loading Dictionaries . . . 
+Adding: a Count: 0 Size: 101
+Hashval : 69
+Adding: accent Count: 1 Size: 101
+Hashval : 94
+Adding: an Count: 2 Size: 101
+Hashval : 37
+Adding: as Count: 3 Size: 101
+Hashval : 42
+Adding: away Count: 4 Size: 101
+Hashval : 82
+Adding: believe Count: 5 Size: 101
+Hashval : 78
+Adding: brain Count: 6 Size: 101
+Hashval : 69 70
+Adding: but Count: 7 Size: 101
+Hashval : 83
+Adding: cannot Count: 8 Size: 101
+Hashval : 52
+Adding: child Count: 9 Size: 101
+Hashval : 2
+Adding: clouds Count: 10 Size: 101
+Hashval : 42 43
+Adding: come Count: 11 Size: 101
+Hashval : 61
+Adding: decided Count: 12 Size: 101
+Hashval : 41
+Adding: doubt Count: 13 Size: 101
+Hashval : 83 84
+Adding: doubtful Count: 14 Size: 101
+Hashval : 63
+Adding: eager Count: 15 Size: 101
+Hashval : 99
+Adding: encouraging Count: 16 Size: 101
+Hashval : 100
+Adding: encouragingly Count: 17 Size: 101
+Hashval : 5
+Adding: expect Count: 18 Size: 101
+Hashval : 97
+Adding: fact Count: 19 Size: 101
+Hashval : 88
+Adding: first Count: 20 Size: 101
+Hashval : 40
+Adding: from Count: 21 Size: 101
+Hashval : 63 64
+Adding: girl Count: 22 Size: 101
+Hashval : 24
+Adding: gravely Count: 23 Size: 101
+Hashval : 11
+Adding: he Count: 24 Size: 101
+Hashval : 85
+Adding: hers Count: 25 Size: 101
+Hashval : 61 62
+Adding: him Count: 26 Size: 101
+Hashval : 69 70 74
+Adding: his Count: 27 Size: 101
+Hashval : 75
+Adding: i Count: 28 Size: 101
+Hashval : 77
+Adding: imaginative Count: 29 Size: 101
+Hashval : 25
+Adding: impulse Count: 30 Size: 101
+Hashval : 30
+Adding: is Count: 31 Size: 101
+Hashval : 35
+Adding: it Count: 32 Size: 101
+Hashval : 36
+Adding: know Count: 33 Size: 101
+Hashval : 8
+Adding: lady Count: 34 Size: 101
+Hashval : 38
+Adding: merely Count: 35 Size: 101
+Hashval : 5 6
+Adding: must Count: 36 Size: 101
+Hashval : 43 44
+Adding: next Count: 37 Size: 101
+Hashval : 91
+Adding: not Count: 38 Size: 101
+Hashval : 28
+Adding: of Count: 39 Size: 101
+Hashval : 42 43 47
+Adding: over Count: 40 Size: 101
+Hashval : 87
+Adding: overly Count: 41 Size: 101
+Hashval : 7
+Adding: own Count: 42 Size: 101
+Hashval : 71
+Adding: reprimand Count: 43 Size: 101
+Hashval : 46
+Adding: roll Count: 44 Size: 101
+Hashval : 3
+Adding: rolled Count: 45 Size: 101
+Hashval : 73
+Adding: said Count: 46 Size: 101
+Hashval : 61 62 66
+Adding: sane Count: 47 Size: 101
+Hashval : 45
+Adding: sanity Count: 48 Size: 101
+Hashval : 94 95
+Adding: she Count: 49 Size: 101
+Rehashing
+Made it here 
+Size 210
+Made Table

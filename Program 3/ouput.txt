@@ -1,0 +1,253 @@
+Loading Dictionaries . . . 
+Adding: a Count: 0 Size: 101
+Hashval : 97
+Adding: accent Count: 1 Size: 101
+Hashval : 32
+Adding: an Count: 2 Size: 101
+Hashval : 63
+Adding: as Count: 3 Size: 101
+Hashval : 68
+Adding: away Count: 4 Size: 101
+Hashval : 66
+Adding: believe Count: 5 Size: 101
+Hashval : 93
+Adding: brain Count: 6 Size: 101
+Hashval : 89
+Adding: but Count: 7 Size: 101
+Hashval : 35
+Adding: cannot Count: 8 Size: 101
+Hashval : 91
+Adding: child Count: 9 Size: 101
+Hashval : 22
+Adding: clouds Count: 10 Size: 101
+Hashval : 81
+Adding: come Count: 11 Size: 101
+Hashval : 45
+Adding: decided Count: 12 Size: 101
+Hashval : 56
+Adding: doubt Count: 13 Size: 101
+Hashval : 2
+Adding: doubtful Count: 14 Size: 101
+Hashval : 82
+Adding: eager Count: 15 Size: 101
+Hashval : 18
+Adding: encouraging Count: 16 Size: 101
+Hashval : 99
+Adding: encouragingly Count: 17 Size: 101
+Hashval : 15
+Adding: expect Count: 18 Size: 101
+Hashval : 35 36
+Adding: fact Count: 19 Size: 101
+Hashval : 72
+Adding: first Count: 20 Size: 101
+Hashval : 60
+Adding: from Count: 21 Size: 101
+Hashval : 47
+Adding: girl Count: 22 Size: 101
+Hashval : 8
+Adding: gravely Count: 23 Size: 101
+Hashval : 26
+Adding: he Count: 24 Size: 101
+Hashval : 10
+Adding: hers Count: 25 Size: 101
+Hashval : 45 46
+Adding: him Count: 26 Size: 101
+Hashval : 21
+Adding: his Count: 27 Size: 101
+Hashval : 27
+Adding: i Count: 28 Size: 101
+Hashval : 4
+Adding: imaginative Count: 29 Size: 101
+Hashval : 92
+Adding: impulse Count: 30 Size: 101
+Hashval : 45 46 50
+Adding: is Count: 31 Size: 101
+Hashval : 61
+Adding: it Count: 32 Size: 101
+Hashval : 62
+Adding: know Count: 33 Size: 101
+Hashval : 93 94
+Adding: lady Count: 34 Size: 101
+Hashval : 22 23
+Adding: merely Count: 35 Size: 101
+Hashval : 44
+Adding: must Count: 36 Size: 101
+Hashval : 27 28
+Adding: next Count: 37 Size: 101
+Hashval : 75
+Adding: not Count: 38 Size: 101
+Hashval : 81 82 86
+Adding: of Count: 39 Size: 101
+Hashval : 68 69
+Adding: over Count: 40 Size: 101
+Hashval : 71
+Adding: overly Count: 41 Size: 101
+Hashval : 46 47 51
+Adding: own Count: 42 Size: 101
+Hashval : 23 24
+Adding: reprimand Count: 43 Size: 101
+Hashval : 1
+Adding: roll Count: 44 Size: 101
+Hashval : 88
+Adding: rolled Count: 45 Size: 101
+Hashval : 11
+Adding: said Count: 46 Size: 101
+Hashval : 45 46 50 59
+Adding: sane Count: 47 Size: 101
+Hashval : 29
+Adding: sanity Count: 48 Size: 101
+Hashval : 32 33
+Adding: she Count: 49 Size: 101
+Rehashing
+Made it here 
+Old size : 101
+Size 1111
+Made Table
+Size: 1111
+0
+New Hash vals 0 
+Size: 1111
+1
+value: reprimand
+New Hash vals 910 
+Size: 1111
+2
+value: doubt
+New Hash vals 709 
+Size: 1111
+3
+New Hash vals 0 2 
+Size: 1111
+4
+value: i
+New Hash vals 105 
+Size: 1111
+5
+New Hash vals 0 2 8 
+Size: 1111
+6
+New Hash vals 0 2 8 20 
+Size: 1111
+7
+New Hash vals 0 2 8 20 40 
+Size: 1111
+8
+value: girl
+New Hash vals 311 
+Size: 1111
+9
+New Hash vals 0 2 8 20 40 70 
+Size: 1111
+10
+value: he
+New Hash vals 616 
+Size: 1111
+11
+value: rolled
+New Hash vals 314 
+Size: 1111
+12
+New Hash vals 0 2 8 20 40 70 112 
+Size: 1111
+13
+New Hash vals 0 2 8 20 40 70 112 168 
+Size: 1111
+14
+New Hash vals 0 2 8 20 40 70 112 168 240 
+Size: 1111
+15
+value: encouragingly
+New Hash vals 419 
+Size: 1111
+16
+New Hash vals 0 2 8 20 40 70 112 168 240 330 
+Size: 1111
+17
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 
+Size: 1111
+18
+value: eager
+New Hash vals 119 
+Size: 1111
+19
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 
+Size: 1111
+20
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 
+Size: 1111
+21
+value: him
+New Hash vals 829 
+Size: 1111
+22
+value: child
+New Hash vals 123 
+Size: 1111
+23
+value: lady
+New Hash vals 1032 
+Size: 1111
+24
+value: own
+New Hash vals 932 
+Size: 1111
+25
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 
+Size: 1111
+26
+value: gravely
+New Hash vals 430 
+Size: 1111
+27
+value: his
+New Hash vals 835 
+Size: 1111
+28
+value: must
+New Hash vals 734 
+Size: 1111
+29
+value: sane
+New Hash vals 433 
+Size: 1111
+30
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 
+Size: 1111
+31
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 
+Size: 1111
+32
+value: accent
+New Hash vals 32 
+Size: 1111
+33
+value: sanity
+New Hash vals 335 
+Size: 1111
+34
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 1938 
+Size: 1111
+35
+value: but
+New Hash vals 843 
+Size: 1111
+36
+value: expect
+New Hash vals 843 845 
+Size: 1111
+37
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 1938 2280 
+Size: 1111
+38
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 1938 2280 2660 
+Size: 1111
+39
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 1938 2280 2660 3080 
+Size: 1111
+40
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 1938 2280 2660 3080 3542 
+Size: 1111
+41
+New Hash vals 0 2 8 20 40 70 112 168 240 330 440 572 728 910 1120 1360 1632 1938 2280 2660 3080 3542 4048 
+Size: 1111
+42

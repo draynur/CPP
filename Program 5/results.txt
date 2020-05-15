@@ -1,0 +1,5 @@
+Next Fit: Wins - 0 Avg bins: 66
+First Fit: Wins - 0 Avg bins: 55
+Best Fit: Wins - 0 Avg bins: 54
+Offline First Fit: Wins - 10 Avg bins: 52
+Offline Best Fit: Wins - 10 Avg bins: 52
